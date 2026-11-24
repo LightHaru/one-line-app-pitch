@@ -1,0 +1,14 @@
+{
+  "name": "one-line-app-pitch",
+  "version": "1.0.0",
+  "description": "One-sentence pitch entry for make.fun's \"A Day of One-Line Pitches\" bounty.",
+  "type": "module",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22.18"
+  },
+  "scripts": {
+    "start": "node main.ts",
+    "test": "node --test"
+  }
+}
